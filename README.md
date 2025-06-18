@@ -1,4 +1,3 @@
-# Taryn Brownfield
 ## SNHU CS-499 Capstone
 
 Hello! Here you'll find the original technical artifact (a text-based game written in Python from an earlier class at SNHU), the enhancements and accompanying narratives broken out by milestone, and the final product, GuiStewGame.py!
